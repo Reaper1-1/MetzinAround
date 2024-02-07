@@ -1,16 +1,21 @@
-### Hi there 👋
+# Pj Metz - Education Community Manager (Campus Experts)
 
-<!--
-**MetzinAround/MetzinAround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me!
+🌱 I’m currently learning: Computer Science on [Codecademy](https://www.codecademy.com/career-journey/computer-science)
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on: helping learners of all ages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: Education, Literature, 80's music, Synthwave, and Vaporwave
+
+😄 Pronouns: he/him 
+
+⚡ Fun fact: I'm a former literature teacher turned DevRel Practitioner/Community Manager. Read about my Journey to tech [here!](https://www.codecademy.com/resources/blog/from-english-teacher-to-developer-advocate/)
+
+
+## 📫 How to reach me
+
+ [🐦 Twitter](https://twitter.com/metzinaround)
+
+ [📥 Linkedin](https://linkedin.com/in/metzinaround)
+
+ 
