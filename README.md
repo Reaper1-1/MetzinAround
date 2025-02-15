@@ -5,7 +5,7 @@
 
 Indeed, dear reader. I do work for GitHub. And perhaps a nice clean professional README is something a professional person should have. But using my own profile emphasizes the real world effects of making changes to your main repo and lets me have a little fun. Like how the picture coming up will change every time I do this exercise, so visistors to my profile will never know what they're gonna get. 
 
-!["BLANK mentioned" meme with the anime girl holding a publix iced tea, a florida based beer, weraing a florida gators hat in front of the gatorland attraction. The text at the bottom reads "Florida Mentioned!"](https://github.com/juanpflores/juanpflores/blob/main/florida_mentioned.jpeg)
+![BLANK mentioned meme with the anime girl holding a publix iced tea, a florida based beer, weraing a florida gators hat in front of the gatorland attraction. The text at the bottom that reads Florida Mentioned!](https://github.com/metzinaround/metzinaround/blob/main/assets/florida_mentioned.jpeg)
 
 Wow that picture was wild. Good job, Pj. 
 
