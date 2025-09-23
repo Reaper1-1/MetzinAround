@@ -5,7 +5,7 @@
 
 Indeed, dear reader. I do work for GitHub. And perhaps a nice clean professional README is something a professional person should have. But using my own profile emphasizes the real world effects of making changes to your main repo and lets me have a little fun. Like how the picture coming up will change every time I do this exercise, so visitors to my profile will never know what they're gonna get. 
 
-![An image of an anime kid wearing a gators hat and carrying various Florida themed stuff. The text reads "Florida Mentioned"](/assets/florida_mentioned.jpeg)
+![Pj wearing a red GitHub hat and a blue GitHub shirt, pointing at someone off camera and smiling. ](assets/pj_point.jpg)
 
 Wow that picture was wild. Good job, Pj. 
 
